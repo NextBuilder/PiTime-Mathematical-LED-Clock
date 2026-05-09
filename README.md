@@ -23,7 +23,7 @@ A unique clock where you don’t just read time… you **solve it**.
 🌐 **Official Links:**
 
 <p align="center">
-  <a href="https://youtube.com/@NextBuilder" target="_blank">
+  <a href="https://youtube.com/@Next.Builder" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://www.instructables.com/member/Next%20Builder%20DIY/" target="_blank">
